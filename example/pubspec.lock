@@ -272,5 +272,5 @@ packages:
     source: path
     version: "1.0.5"
 sdks:
-  dart: ">=3.3.3 <4.0.0"
+  dart: ">=3.2.5 <4.0.0"
   flutter: ">=3.0.0"
